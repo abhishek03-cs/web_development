@@ -1,0 +1,12 @@
+.item{
+    border: 5px solid red;
+    height: 200px;
+    width: 60%;
+    background: #00f93c;
+    display: inline-flex;
+}
+.mem{
+
+    border: 2px solid black;
+    margin: 3px;
+}
